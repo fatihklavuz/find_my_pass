@@ -1,4 +1,4 @@
-arn=input("Kullandığın paraolayı gir :").strip()
+arn=input("Kullandığın parolayı gir :").strip()
 f=open("a.csv","r",encoding="utf8")
 strn=0
 blgstrsy=0
